@@ -16,7 +16,7 @@
   
   ##
   
-  <img align="right" width="250" src="https://i.pinimg.com/originals/9c/94/fa/9c94fa8cae77875dee532cc5e9f0caf4.gif" />
+  <img align="right" width="282" src="https://i.pinimg.com/originals/9c/94/fa/9c94fa8cae77875dee532cc5e9f0caf4.gif" />
 
 ```js
 import Desenvolvedor from 'LuisaKeys';
