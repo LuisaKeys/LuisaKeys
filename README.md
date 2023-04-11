@@ -9,9 +9,10 @@
   ##
  
 <div align="center">
-  <a href = "luisalima0602@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-Gmail-151A28?style=for-the-badge&logo=gmail&logoColor=92D534" target="_blank"></a>
+  <a href = "luisalima0602@gmail.com"><img src="https://img.shields.io/badge/-Gmail-151A28?style=for-the-badge&logo=gmail&logoColor=92D534" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luísa-lima-176185236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-151A28?style=for-the-badge&logo=linkedin&logoColor=92D534" target="_blank"></a> 
-  <a href="https://replit.com/@LuisaWeydner" target="_blank"><img src="https://img.shields.io/badge/Replit-151A28?style=for-the-badge&logo=rss&logoColor=92D534" target="_blank"></a> 
+  <a href="https://replit.com/@LuisaWeydner" target="_blank"><img src="https://img.shields.io/badge/Replit-151A28?style=for-the-badge&logo=Replit&logoColor=92D534" target="_blank"></a> 
+  <a href = "luisalima0602@gmail.com"><img src="https://img.shields.io/badge/Figma-151A28?style=for-the-badge&logo=Figma&logoColor=92D534" target="_blank"></a>
 </div>
   
   ##
