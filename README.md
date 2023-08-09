@@ -12,7 +12,7 @@
 
   ##
   
-  <img align="right" height="155px" src="https://i.pinimg.com/originals/83/5c/91/835c911da2810099ba33a08fc9e702ea.gif" />
+  <img align="right" height="153px" src="https://i.pinimg.com/originals/83/5c/91/835c911da2810099ba33a08fc9e702ea.gif" />
 
 ```js
 import Desenvolvedor from 'LuisaKeys';
